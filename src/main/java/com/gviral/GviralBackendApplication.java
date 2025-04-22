@@ -1,5 +1,4 @@
-
-package com.gviral.controller;
+package com.gviral;
 
 import org.springframework.web.bind.annotation.*;
 import java.util.*;
