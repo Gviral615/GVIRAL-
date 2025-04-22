@@ -5,7 +5,7 @@ import java.util.*;
 
 @RestController
 @RequestMapping("/api/music")
-public class MusicController {
+public class Gviralbackendapplication {
     @GetMapping
     public List<String> getAllMusic() {
         return Arrays.asList("Track 1", "Track 2");
